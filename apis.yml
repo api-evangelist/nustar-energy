@@ -1,7 +1,12 @@
 aid: nustar-energy
-url: https://raw.githubusercontent.com/api-evangelist/nustar-energy/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/nustar-energy/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.nustar-energy.com
+description: >-
+  NuStar Energy is one of the largest independent liquids terminal and pipeline operators
+  in the United States, transporting and storing crude oil, refined products, and
+  renewable fuels.
