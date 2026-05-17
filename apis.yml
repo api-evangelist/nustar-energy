@@ -34,9 +34,9 @@ common:
     url: https://www.nustar-energy.com/careers/
   - type: Contact
     url: https://www.nustar-energy.com/contact-us/
-  - type: Terms of Service
+  - type: TermsOfService
     url: https://www.nustar-energy.com/terms-and-conditions/
-  - type: Privacy Policy
+  - type: PrivacyPolicy
     url: https://www.nustar-energy.com/privacy-policy/
 maintainers:
   - FN: Kin Lane
