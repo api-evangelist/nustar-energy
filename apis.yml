@@ -35,6 +35,12 @@ tags:
   - Energy
   - Pipelines
   - Storage
+  - Terminal
+  - Fortune 1000
+tags_raw:
+  - Energy
+  - Pipelines
+  - Storage
   - Terminals
   - Fortune 1000
 url: https://raw.githubusercontent.com/api-evangelist/nustar-energy/refs/heads/main/apis.yml
