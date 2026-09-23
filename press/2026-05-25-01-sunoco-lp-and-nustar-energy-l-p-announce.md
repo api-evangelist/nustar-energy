@@ -1,7 +1,9 @@
 ---
 title: Sunoco LP and NuStar Energy L.P. Announce ...
 url: https://www.prnewswire.com/news-releases/sunoco-lp-and-nustar-energy-lp-announce-nustars-unitholder-approval-of-the-sunoco-transaction-302133671.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"NuStar Energy" press release artificial intelligence'
 position: 1
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Sunoco LP to Acquire NuStar Energy L.P. in Transaction ...
 url: https://www.velaw.com/news/sunoco-lp-to-acquire-nustar-energy-l-p-in-transaction-valued-at-7-3-billion/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"NuStar Energy" press release artificial intelligence'
 position: 5
 source: serpapi-google
