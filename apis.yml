@@ -1,10 +1,11 @@
 aid: nustar-energy
 name: NuStar Energy
 description: >-
-  NuStar Energy is one of the largest independent liquids terminal and pipeline
+  NuStar Energy was one of the largest independent liquids terminal and pipeline
   operators in the United States, transporting and storing crude oil, refined
-  products, and renewable fuels. NuStar does not currently publish public APIs
-  or developer resources.
+  products, and renewable fuels. Sunoco LP completed its acquisition of NuStar on
+  3 May 2024, and nustarenergy.com now redirects to sunocolp.com. NuStar published
+  no public APIs or developer resources.
 type: Index
 deliveryModel:
   model: saas
@@ -31,18 +32,25 @@ accessModel:
 position: Producing
 access: 1st-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/nustar-energy.png
+x-status: "acquired"
+x-acquired-by: "sunoco"
+x-acquired-date: "2024-05-03"
+x-status-source: "https://www.sec.gov/Archives/edgar/data/1110805/000119312524130840/d806420dex991.htm"
+x-status-evidence: "Sunoco LP Completes Acquisition of NuStar Energy L.P. (press release filed with the SEC, 2024-05-03); NuStar units ceased trading on the NYSE that day; nustarenergy.com redirects to sunocolp.com (roadmap#867)"
 tags:
   - Energy
   - Pipelines
   - Storage
   - Terminal
   - Fortune 1000
+  - Acquired
 tags_raw:
   - Energy
   - Pipelines
   - Storage
   - Terminals
   - Fortune 1000
+  - Acquired
 url: https://raw.githubusercontent.com/api-evangelist/nustar-energy/refs/heads/main/apis.yml
 created: '2025-01-01'
 modified: '2026-04-28'
